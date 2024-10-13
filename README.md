@@ -1,1 +1,2 @@
-# etch-a-sketch
+# The Odin Project: Etch-a-Sketch
+A simple website that simulates Etch-a-Sketch functionality. Starts with a 16x16 grid to paint on. Allows users to define their own grid size via button press (max. 100 x 100).
