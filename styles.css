@@ -34,6 +34,6 @@ button {
 }
 
 .square {
-    border: 1px solid rgba(101, 98, 98, 0.237);
+    border: 1px solid rgba(0, 0, 0, 0.237);
     background-color: blue;
 }
